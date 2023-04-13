@@ -1,0 +1,1076 @@
+Error : main:Invailed Commandline
+Error : main:Invailed Commandline
+Info : main:Time : 1/4 18:9
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\44_ColorTone.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/5 0:30
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\47_Bloom.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/5 1:53
+Info : main:Start Compile : File "D:\Work\DirectX\_Shaders\48_EnvCube.fx"
+Info : main:Time : 1/5 1:53
+Info : main:Start Compile : File "D:\Work\DirectX\_Shaders\48_EnvCube.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/5 1:55
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(339,22-67): error X3088: struct EnvCubeMapDesc does not have method 'Sample'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 1:55
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(339,22-67): error X3088: struct EnvCubeMapDesc does not have method 'Sample'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 1:58
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Render.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Render.fx(32,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 1:59
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Render.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Render.fx(32,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 1:59
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(336,22-67): error X3088: struct EnvCubeMapDesc does not have method 'Sample'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 2:1
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Render.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Render.fx(32,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 2:1
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(336,22-67): error X3088: struct EnvCubeMapDesc does not have method 'Sample'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 2:2
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx(18,5-106): error X3004: undeclared identifier 'PS_Sky'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 2:4
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/5 23:0
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(4,12-21): error X3004: undeclared identifier 'SkyCubeMap'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 23:1
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(4,12-21): error X3004: undeclared identifier 'SkyCubeMap'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/5 23:1
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/5 23:45
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/6 1:22
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/6 1:52
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/6 2:0
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\48_EnvCube.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/12 21:40
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx(8,9-39): error X3507: 'PS': Not all control paths return a value
+D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx(34,5-35): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/12 21:40
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx(8,9-39): error X3507: 'PS': Not all control paths return a value
+D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx(34,5-35): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/12 21:40
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/12 21:53
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/12 21:54
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/12 21:57
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/12 21:57
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/13 0:18
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\49_Projection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/13 18:7
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\50_Depth.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/13 18:13
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\50_Depth.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/17 21:9
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Light.fx(371,19-33): error X3018: invalid subscript 'sPosition'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/17 21:11
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(134,5-18): error X3017: cannot implicitly convert from 'struct MeshDepthOutput' to 'struct MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/17 21:12
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(134,5-18): error X3017: cannot implicitly convert from 'struct MeshDepthOutput' to 'struct MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/17 21:12
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx(18,5-49): error X3004: undeclared identifier 'VS_Animation_Depth'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/17 21:12
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/18 2:38
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Render.fx(63,47): error X3000: syntax error: unexpected token ';'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/18 2:39
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/18 2:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\51_DepthBuffer.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/18 3:6
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/18 3:12
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/18 3:16
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/19 1:32
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/19 1:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/19 1:51
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/19 2:18
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/19 2:23
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/19 2:28
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/19 2:34
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\52_Shadow.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/21 0:11
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\53_Framework.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/23 20:13
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx(18,5-79): error X3004: undeclared identifier 'PS_Terrain_Depth'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/23 20:14
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/23 20:17
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/23 20:17
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/23 20:29
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/23 20:35
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/23 21:53
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/24 2:34
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/24 2:42
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx(124,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/24 2:42
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx(14,12-18): error X3003: redefinition of 'VertexTerrain::Tangent'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/24 2:43
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx(125,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/24 2:43
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx(125,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/24 2:43
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(172,13-94): error X3004: undeclared identifier 'CalcualteFogColor'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/24 2:44
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/24 3:18
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/24 3:23
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/24 20:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(175,14-24): error X3018: invalid subscript 'color'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 1/24 20:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/24 21:10
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 1/24 21:12
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:9
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:24
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(99,19-37): error X3507: 'GetLineColor': Not all control paths return a value
+D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx(25,5-36): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/1 0:24
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:31
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:33
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(177,5-9): error X3004: undeclared identifier 'color'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/1 0:33
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(99,19-37): error X3507: 'GetLineColor': Not all control paths return a value
+D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx(25,5-36): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/1 0:34
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(99,19-37): error X3507: 'GetLineColor': Not all control paths return a value
+D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx(25,5-36): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/1 0:35
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:36
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:43
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:54
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:56
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/1 0:57
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\55_Brush.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/7 23:24
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx(32,21-26): error X3004: undeclared identifier 'Inside'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/7 23:25
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx(8,15-35): error X4577: Not all elements of SV_Position were written
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx(8,15-35): error X4576: Output signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx(82,5-52): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/7 23:25
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx(8,15-35): error X4577: Not all elements of SV_Position were written
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx(8,15-35): error X4576: Output signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx(82,5-52): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/7 23:27
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Triangle.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/15 23:36
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Rect.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Rect.fx(30,22-28): error X3504: array index out of bounds
+D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Rect.fx(86,5-52): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/15 23:36
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_Rect.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/15 23:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_RectDistance.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/15 23:55
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_RectDistance.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/15 23:56
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_RectDistance.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/16 0:8
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_RectDistance.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/16 0:9
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\56_RectDistance.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/16 2:3
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx(80,24-29): error X3004: undeclared identifier 'factor'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/16 2:3
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx(34,15-35): warning X3578: Output value 'VS' is not completely initialized
+Stage linkage warning: Semantic Uv is read from, but it's never written to.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P0.
+Stage linkage warning: Semantic Uv is read from, but it's never written to.
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/16 2:3
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx(34,15-35): warning X3578: Output value 'VS' is not completely initialized
+Stage linkage warning: Semantic Uv is read from, but it's never written to.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P0.
+Stage linkage warning: Semantic Uv is read from, but it's never written to.
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/16 2:4
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/16 2:25
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx(127,5-58): warning X3206: implicit truncation of vector type
+Redefinition of pass "P0"
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/16 2:27
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+Redefinition of pass "P0"
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/16 2:28
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+Redefinition of pass "P0"
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/16 2:28
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+Redefinition of pass "P0"
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 2/16 2:29
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/16 2:29
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/16 2:36
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/18 0:44
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/18 0:48
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/24 21:44
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\36_Lighting.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/24 21:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\36_Lighting.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/27 23:14
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 2/27 23:43
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\57_TerrainLOD.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/2 23:18
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Sky.fx(249,5-30): error X3004: undeclared identifier 'ReflectionView'
+00_Sky.fx(249,5-30): error X3013: 'mul': no matching 2 parameter intrinsic function
+00_Sky.fx(249,5-30): error X3013: Possible intrinsic functions are:
+00_Sky.fx(249,5-30): error X3013:     mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint)
+00_Sky.fx(249,5-30): error X3013:     mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatK|halfK|doubleK|min10floatK|min16floatK|intK|uintK|min12intK|min16intK|min16uintK)
+00_Sky.fx(249,5-30): error X3013:     mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatLxK|halfLxK|doubleLxK|min10floatLxK|min16floatLxK|intLxK|uintLxK|min12intLxK|min16intLxK|min16uintLxK)
+00_Sky.fx(249,5-30): error X3013:     mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 3/2 23:20
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Sky.fx(324,5-30): error X3004: undeclared identifier 'ReflectionView'
+00_Sky.fx(324,5-30): error X3013: 'mul': no matching 2 parameter intrinsic function
+00_Sky.fx(324,5-30): error X3013: Possible intrinsic functions are:
+00_Sky.fx(324,5-30): error X3013:     mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint)
+00_Sky.fx(324,5-30): error X3013:     mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatK|halfK|doubleK|min10floatK|min16floatK|intK|uintK|min12intK|min16intK|min16uintK)
+00_Sky.fx(324,5-30): error X3013:     mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatLxK|halfLxK|doubleLxK|min10floatLxK|min16floatLxK|intLxK|uintLxK|min12intLxK|min16intLxK|min16uintLxK)
+00_Sky.fx(324,5-30): error X3013:     mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 3/2 23:20
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/2 23:29
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(172,40-57): error X3004: undeclared identifier 'PS_AllLgith'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 3/2 23:31
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(172,40-57): error X3004: undeclared identifier 'PS_AllLgith'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 3/2 23:31
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/2 23:45
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 0:53
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 1:0
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 1:6
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 1:25
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\60_Refraction.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 1:26
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\60_Refraction.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 1:51
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 1:53
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 3:32
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 3:38
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 16:45
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/4 16:47
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\59_Scattering.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/7 21:58
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\60_Refraction.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/7 22:0
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\60_Refraction.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/7 22:0
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\60_Refraction.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/7 22:1
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\60_Refraction.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/8 2:5
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflaction.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflaction.fx(12,24-42): error X3003: redefinition of 'VS_Reflection'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 3/8 2:8
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflaction.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/9 23:12
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflaction.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/10 0:4
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/10 0:13
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/10 0:23
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/10 0:43
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/10 0:59
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/10 1:12
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/10 17:9
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/14 15:47
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/17 15:11
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/17 15:13
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/17 15:14
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/17 22:32
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\61_Reflection.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/29 21:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx(107,19-24): error X3004: undeclared identifier 'normal'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 3/29 21:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx(107,19-24): error X3004: undeclared identifier 'normal'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 3/29 21:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/29 21:54
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/29 22:5
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 3/29 22:13
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 4/6 23:10
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 4/14 21:57
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 4/14 21:58
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 4/14 22:0
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 4/14 22:4
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Error : main:Is not Effect File
+Info : main:Time : 7/11 21:5
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 8/8 18:28
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 8/8 23:44
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx(340,11-60): warning X3206: implicit truncation of vector type
+D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx(375,5-36): error X3067: 'PS_Terrain': ambiguous function call
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/8 23:45
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 8/9 0:28
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx(124,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 0:32
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(198,5-15): error X3018: invalid subscript 'Normal'
+00_Terrain.fx(198,5-15): error X3013: 'WorldNormal': no matching 1 parameter function
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 0:34
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(198,5-15): error X3018: invalid subscript 'Normal'
+00_Terrain.fx(198,5-15): error X3013: 'WorldNormal': no matching 1 parameter function
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 0:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P21.
+Stage l
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 0:52
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P21.
+Stage l
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 0:54
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P22.
+Stage l
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 0:55
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P21.
+Stage l
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:3
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx(124,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:3
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P21.
+Stage l
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:4
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+D:\Work\U_HYO\Portfolio_Final\_Shaders\00_Terrain.fx(124,1-10): error X3000: unrecognized identifier 'MeshOutput'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:4
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(198,5-15): error X3018: invalid subscript 'Normal'
+00_Terrain.fx(198,5-15): error X3013: 'WorldNormal': no matching 1 parameter function
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:4
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(198,5-15): error X3018: invalid subscript 'Normal'
+00_Terrain.fx(198,5-15): error X3013: 'WorldNormal': no matching 1 parameter function
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:5
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(198,5-15): error X3018: invalid subscript 'Normal'
+00_Terrain.fx(198,5-15): error X3013: 'WorldNormal': no matching 1 parameter function
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:5
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 8/9 1:10
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P21.
+Stage l
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:19
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P21.
+Stage l
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:27
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: ERROR: No valid VertexShader-HullShader combination could be found in Technique T0, Pass P21.
+Stage l
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:28
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(382,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Terrain.fx(380,20-40): error X3503: 'PS_TerrainLOD': function return value missing semantics
+D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx(191,5-52): There was an error compiling expression
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:42
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 8/9 1:47
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(215,5-26): error X3018: invalid subscript 'Normal'
+00_Terrain.fx(215,5-26): error X3013: 'WorldNormal': no matching 1 parameter function
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:47
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(216,5-26): error X3018: invalid subscript 'Tangent'
+00_Terrain.fx(216,5-26): error X3013: 'WorldTangent': no matching 1 parameter function
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:47
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(217,5-26): error X3018: invalid subscript 'Color'
+
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:47
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(370,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Terrain.fx(197,37-68): warning X3578: Output value 'VS_TerrainLOD' is not completely initialized
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: E
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 1:49
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Info : main:Time : 8/9 1:53
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Error : Compile:warning X4717: Effects deprecated for D3DCompiler_47
+00_Terrain.fx(370,11-60): warning X3206: implicit truncation of vector type
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(266,37-70): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Sky.fx(428,27-48): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+00_Terrain.fx(197,37-68): warning X3578: Output value 'VS_TerrainLOD' is not completely initialized
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+Stage linkage warning: Semantic Uv has been placed in different registers in the two stages.
+D3DEffectCompiler: E
+Info : main:==================== 컴파일: 성공 0, 실패 1 ====================
+
+Info : main:Time : 8/9 2:35
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\62_Water.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+
+Error : main:Is not Effect File
+Info : main:Time : 12/25 14:46
+Info : main:Start Compile : File "D:\Work\U_HYO\Portfolio_Final\_Shaders\42_Billboard.fx"
+Info : main:==================== 컴파일: 성공 1, 실패 0 ====================
+

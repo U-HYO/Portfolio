@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Materials xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Material>
+        <Name>Miki_0</Name>
+        <DiffuseFile>cb_tr001_c3_01out.tga</DiffuseFile>
+        <SpecularFile>cb_tr001_c3_01out.tga</SpecularFile>
+        <NormalFile>cb_tr001_c3_01out.tga</NormalFile>
+        <Ambient R="0.50196081" G="0.50196081" B="0.50196081" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_1</Name>
+        <DiffuseFile>cb_tr001_c3_01out.tga</DiffuseFile>
+        <SpecularFile>cb_tr001_c3_01out.tga</SpecularFile>
+        <NormalFile>cb_tr001_c3_01out.tga</NormalFile>
+        <Ambient R="0.50196081" G="0.50196081" B="0.50196081" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_2</Name>
+        <DiffuseFile>ch_pr001_003mik_eyel.tga</DiffuseFile>
+        <SpecularFile>ch_pr001_003mik_eyel.tga</SpecularFile>
+        <NormalFile>ch_pr001_003mik_eyel.tga</NormalFile>
+        <Ambient R="0.50196081" G="0.50196081" B="0.50196081" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_3</Name>
+        <DiffuseFile>ch_pr001_003mik_eyel.tga</DiffuseFile>
+        <SpecularFile>ch_pr001_003mik_eyel.tga</SpecularFile>
+        <NormalFile>ch_pr001_003mik_eyel.tga</NormalFile>
+        <Ambient R="0.28235295" G="0.28235295" B="0.28235295" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_4</Name>
+        <DiffuseFile>ch_pr001_003mik_eyer.tga</DiffuseFile>
+        <SpecularFile>ch_pr001_003mik_eyer.tga</SpecularFile>
+        <NormalFile>ch_pr001_003mik_eyer.tga</NormalFile>
+        <Ambient R="0.50196081" G="0.50196081" B="0.50196081" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_5</Name>
+        <DiffuseFile>ch_pr001_003mik_eyer.tga</DiffuseFile>
+        <SpecularFile>ch_pr001_003mik_eyer.tga</SpecularFile>
+        <NormalFile>ch_pr001_003mik_eyer.tga</NormalFile>
+        <Ambient R="0.28235295" G="0.28235295" B="0.28235295" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_6</Name>
+        <DiffuseFile>ch_pr001_003mik_face.tga</DiffuseFile>
+        <SpecularFile>ch_pr001_003mik_face.tga</SpecularFile>
+        <NormalFile>ch_pr001_003mik_face.tga</NormalFile>
+        <Ambient R="0.50196081" G="0.50196081" B="0.50196081" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_7</Name>
+        <DiffuseFile>ch_pr001_003mik_hair.tga</DiffuseFile>
+        <SpecularFile>ch_pr001_003mik_hair.tga</SpecularFile>
+        <NormalFile>ch_pr001_003mik_hair.tga</NormalFile>
+        <Ambient R="0.50196081" G="0.50196081" B="0.50196081" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_8</Name>
+        <DiffuseFile>ch_pr001_003mik_eyehout.tga</DiffuseFile>
+        <SpecularFile>ch_pr001_003mik_eyehout.tga</SpecularFile>
+        <NormalFile>ch_pr001_003mik_eyehout.tga</NormalFile>
+        <Ambient R="0.50196081" G="0.50196081" B="0.50196081" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Miki_9</Name>
+        <DiffuseFile>ch_pr001_003mik_eyehout.tga</DiffuseFile>
+        <SpecularFile>ch_pr001_003mik_eyehout.tga</SpecularFile>
+        <NormalFile>ch_pr001_003mik_eyehout.tga</NormalFile>
+        <Ambient R="0.50196081" G="0.50196081" B="0.50196081" A="1"/>
+        <Diffuse R="0.75294119" G="0.75294119" B="0.75294119" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+</Materials>

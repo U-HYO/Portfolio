@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="LightingDemo\NormalMapDemo.cpp" />
+    <ClCompile Include="LightingDemo\AreaLightDemo.cpp" />
+    <ClCompile Include="FrameworkDemo\WeatherDemo.cpp" />
+    <ClCompile Include="FrameworkDemo\BillboardDemo.cpp" />
+    <ClCompile Include="PostEffectDemo\RTVDemo.cpp" />
+    <ClCompile Include="PostEffectDemo\ColorToneDemo.cpp" />
+    <ClCompile Include="PostEffectDemo\MRTDemo.cpp" />
+    <ClCompile Include="PostEffectDemo\BlurDemo.cpp" />
+    <ClCompile Include="PostEffectDemo\BloomDemo.cpp" />
+    <ClCompile Include="FrameworkDemo\CollisionDemo.cpp" />
+    <ClCompile Include="Tessellation\TessellationTriangleDemo.cpp" />
+    <ClCompile Include="Tessellation\TessellationRectDemo.cpp" />
+    <ClCompile Include="Tessellation\TessellationRectDistanceDemo.cpp" />
+    <ClCompile Include="Tessellation\TessellationLODDemo.cpp" />
+    <ClCompile Include="ObjectDemo\DepthBufferDemo.cpp" />
+    <ClCompile Include="ObjectDemo\DepthDemo.cpp" />
+    <ClCompile Include="ObjectDemo\EnvCubeDemo.cpp" />
+    <ClCompile Include="ObjectDemo\FrusutmDemo.cpp" />
+    <ClCompile Include="ObjectDemo\ProjectorDemo.cpp" />
+    <ClCompile Include="ObjectDemo\ReflectionDemo.cpp" />
+    <ClCompile Include="ObjectDemo\RefractionDemo.cpp" />
+    <ClCompile Include="ObjectDemo\ScatteringDemo.cpp" />
+    <ClCompile Include="ObjectDemo\ShadowDemo.cpp" />
+    <ClCompile Include="ObjectDemo\ShadowFrameworkDemo.cpp" />
+    <ClCompile Include="ObjectDemo\WaterDemo.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="LightingDemo\NormalMapDemo.h" />
+    <ClInclude Include="LightingDemo\AreaLightDemo.h" />
+    <ClInclude Include="FrameworkDemo\WeatherDemo.h" />
+    <ClInclude Include="FrameworkDemo\BillboardDemo.h" />
+    <ClInclude Include="PostEffectDemo\RTVDemo.h" />
+    <ClInclude Include="PostEffectDemo\ColorToneDemo.h" />
+    <ClInclude Include="PostEffectDemo\MRTDemo.h" />
+    <ClInclude Include="PostEffectDemo\BlurDemo.h" />
+    <ClInclude Include="PostEffectDemo\BloomDemo.h" />
+    <ClInclude Include="FrameworkDemo\CollisionDemo.h" />
+    <ClInclude Include="Tessellation\TessellationTriangleDemo.h" />
+    <ClInclude Include="Tessellation\TessellationRectDemo.h" />
+    <ClInclude Include="Tessellation\TessellationRectDistanceDemo.h" />
+    <ClInclude Include="Tessellation\TessellationLODDemo.h" />
+    <ClInclude Include="ObjectDemo\DepthBufferDemo.h" />
+    <ClInclude Include="ObjectDemo\DepthDemo.h" />
+    <ClInclude Include="ObjectDemo\EnvCubeDemo.h" />
+    <ClInclude Include="ObjectDemo\FrusutmDemo.h" />
+    <ClInclude Include="ObjectDemo\ProjectorDemo.h" />
+    <ClInclude Include="ObjectDemo\ReflectionDemo.h" />
+    <ClInclude Include="ObjectDemo\RefractionDemo.h" />
+    <ClInclude Include="ObjectDemo\ScatteringDemo.h" />
+    <ClInclude Include="ObjectDemo\ShadowDemo.h" />
+    <ClInclude Include="ObjectDemo\ShadowFrameworkDemo.h" />
+    <ClInclude Include="ObjectDemo\WaterDemo.h" />
+  </ItemGroup>
+</Project>
